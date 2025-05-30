@@ -54,7 +54,7 @@ require (
 	github.com/nlpodyssey/gopickle v0.3.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
-	github.com/ollama/ollama v0.7.0 // indirect
+	github.com/ollama/ollama v0.9.0 // indirect
 	github.com/pdevine/tensor v0.0.0-20240510204454-f88f4562727c // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkoukk/tiktoken-go v0.1.6 // indirect
